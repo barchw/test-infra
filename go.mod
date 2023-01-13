@@ -27,13 +27,13 @@ require (
 	github.com/aws/aws-sdk-go v1.42.1 // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
 	github.com/cloudevents/sdk-go/v2 v2.12.0
-	github.com/containerd/containerd v1.6.6
+	github.com/containerd/containerd v1.6.14
 	github.com/containerd/typeurl v1.0.2
 	github.com/fatih/color v1.13.0 // indirect
 	github.com/forestgiant/sliceutil v0.0.0-20160425183142-94783f95db6c
 	github.com/form3tech-oss/jwt-go v3.2.5+incompatible // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
-	github.com/fsouza/go-dockerclient v1.9.0
+	github.com/fsouza/go-dockerclient v1.9.2
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-playground/validator/v10 v10.11.1
 	github.com/go-yaml/yaml v2.1.0+incompatible
@@ -97,13 +97,13 @@ require (
 	github.com/GoogleCloudPlatform/testgrid v0.0.68 // indirect
 	github.com/Masterminds/goutils v1.1.0 // indirect
 	github.com/Microsoft/go-winio v0.6.0 // indirect
-	github.com/Microsoft/hcsshim v0.9.3 // indirect
+	github.com/Microsoft/hcsshim v0.9.6 // indirect
 	github.com/andygrunwald/go-gerrit v0.0.0-20210709065208-9d38b0be0268 // indirect
 	github.com/andygrunwald/go-jira v1.14.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bwmarrin/snowflake v0.0.0 // indirect
 	github.com/clarketm/json v1.13.4 // indirect
-	github.com/containerd/cgroups v1.0.3 // indirect
+	github.com/containerd/cgroups v1.0.4 // indirect
 	github.com/containerd/continuity v0.1.0 // indirect
 	github.com/containerd/fifo v1.0.0 // indirect
 	github.com/containerd/ttrpc v1.1.0 // indirect
@@ -111,7 +111,7 @@ require (
 	github.com/dgrijalva/jwt-go/v4 v4.0.0-preview1 // indirect
 	github.com/docker/cli v20.10.20+incompatible // indirect
 	github.com/docker/distribution v2.8.1+incompatible // indirect
-	github.com/docker/docker v20.10.20+incompatible // indirect
+	github.com/docker/docker v20.10.22+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.7.0 // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
